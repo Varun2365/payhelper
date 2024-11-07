@@ -1,0 +1,81 @@
+{
+  "2024": {
+
+    "07": [
+      {
+        "36": {
+          "date": "16/7/2024",
+          "name": "TF Technologies",
+          "contact": "9899810002",
+          "gst": "07AJASK22238",
+          "address": "lINE 1",
+          "products": [
+            {
+              "name": "Product 2",
+              "desc": "",
+              "qty": "1",
+              "hsn": "8423",
+              "rate": "3,883.5",
+              "amount": "3,883.5",
+              "tax": 12,
+              "grandTotal": "4,349.52"
+            }
+          ],
+          "totalTax": "466.02",
+          "totalAmount": "3,883.5",
+          "grandTotal": "4,349.52"
+        }
+      }
+    ],
+    "09": [
+      {
+        "37": {
+          "date": "12/9/2024",
+          "name": "TF Technologies",
+          "contact": "9899810002",
+          "gst": "07AJASK22238",
+          "address": "lINE 1",
+          "products": [
+            {
+              "name": "Astro A50 Wireless Headset",
+              "desc": "Wireless headset, Dolby Atmos support, 50mm drivers, detachable microphone, 15-hour battery life",
+              "qty": "1",
+              "hsn": "85258010",
+              "rate": "29,999",
+              "amount": "29,999",
+              "tax": 12,
+              "grandTotal": "33,598.88"
+            }
+          ],
+          "totalTax": "3,599.88",
+          "totalAmount": "29,999.00",
+          "grandTotal": "33,598.88"
+        }
+      },
+      {
+        "38": {
+          "date": "12/9/2024",
+          "name": "TF Technologies",
+          "contact": "9899810002",
+          "gst": "07AJASK22238",
+          "address": "lINE 1",
+          "products": [
+            {
+              "name": "Product 2",
+              "desc": "",
+              "qty": "1",
+              "hsn": "8423",
+              "rate": "3,883.5",
+              "amount": "3,883.5",
+              "tax": 12,
+              "grandTotal": "4,349.52"
+            }
+          ],
+          "totalTax": "466.02",
+          "totalAmount": "3,883.5",
+          "grandTotal": "4,349.52"
+        }
+      }
+    ]
+  }
+}
